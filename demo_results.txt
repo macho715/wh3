@@ -1,0 +1,22 @@
+USER INVENTORY LOGIC TEST RESULTS
+========================================
+
+Input data:
+   Incoming  Outgoing
+0       100        20
+1        50        30
+2         0        40
+3        75        15
+4        25        60
+
+Results:
+   Incoming  Outgoing  Inventory_loop  Expected
+0       100        20              80        80
+1        50        30             100       100
+2         0        40              60        60
+3        75        15             120       120
+4        25        60              85        85
+
+Assert test: PASS
+Final inventory: 85
+SUCCESS: User logic works correctly!
