@@ -1,0 +1,21 @@
+WAREHOUSE INVENTORY CALCULATION RESULTS
+==================================================
+
+Summary by Warehouse:
+    Warehouse  Total_Inbound  Total_Outbound  Net_Movement  Final_Inventory  Max_Inventory  Min_Inventory  Data_Points
+  DSV Outdoor           2005               0          2005             2005           2005             12           88
+   DSV Indoor           1916               0          1916             1916           1916             11          103
+DSV Al Markaz           1097               0          1097             1097           1097              6           59
+         MOSB            708               0           708              708            708              5           65
+       DHL WH            102               0           102              102            102             74            2
+  AAA Storage            101               0           101              101            101              6            6
+     Shifting             75               0            75               75             75              8            7
+       DSV WH             41               0            41               41             41              8            4
+      DSV MZP             14               0            14               14             14              2            5
+    WAREHOUSE              0            3488         -3488            -3488             -3          -3488          222
+
+GRAND TOTALS:
+Total Inbound: 6,059
+Total Outbound: 3,488
+Total Final Inventory: 2,571
+Net Movement: 2,571
